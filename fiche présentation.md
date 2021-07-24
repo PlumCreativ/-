@@ -2,6 +2,7 @@
 <center style="text-align: center;">
 <div align="center">
 <h1> Bienvenue sur le Serveur<br> マナー </h1>
+    
 ![aperçue](tumblr_o2djd5wQ4d1uc9x1zo1_1280.jpg)<br>
     <a style='padding: 0 2%;' href='https://discord.gg/wajHZeNM'>Discord/</a>    <a style='padding: 0 2%;' href='#list'>Equipe/</a><br>
     <h2> Présentation <br> 📃 </h2><hr>
