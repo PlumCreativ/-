@@ -1,9 +1,7 @@
-
 <body>
 <center style="text-align: center;">
 <div align="center">
 <h1> Bienvenue sur le Serveur<br> マナー </h1>
-
 ![aperçue](tumblr_o2djd5wQ4d1uc9x1zo1_1280.jpg)<br>
     <a style='padding: 0 2%;' href='https://discord.gg/wajHZeNM'>Discord/</a>    <a style='padding: 0 2%;' href='#list'>Equipe/</a><br>
     <h2> Présentation <br> 📃 </h2><hr>
@@ -11,7 +9,6 @@
     <br><strong style = 'font-size: 150%;'> マナー </strong>
     <h3><strong> 🏛 Les salons 🏛 </strong></h3>
     <p style='margin: 0 10%;'><em> Il s'agit d'un serveur multi-taches, autrement dit vous-y trouverez des salons et la communauté sur des différentes thèmes: L'études, comme la mathématique et informatique. La détente, comme dans la section FUN, avec de multiples salons, de jeux, et memes. Enfin la section PRICIPALE ou vous trouverez le salon #générale, #débats et des salons concernant le serveur. De naumbreux salons seront ajouté, en fonction de la demande et les votes efectués dans le salon #boîte à idées et/ou #débats ^^. </em> 🏗 🏙 </p>
-    <img style='border-radius: 2px; width: 17%' src="unknown.png"/>
     <h3><strong> 🐱‍👤 Les rôles 🐱‍👤</strong></h3>
     <p style='margin: 0 10%;'><em> Le serveur possède beaucoup de rôles, en tout 3 grands groups, les rôles plantes que vous obtenné, à partire de {100 > +}, puis les rôles des signes, qui sont disponible à partire de {1000 > +} et enfin les arc-en-ciel pour les membres très amplique et actives. Plus d'informations dans le salon #rôles, d'édiés exprès pour vos questions concernant leurs évolution. </em> 😁 💪🏻 </p>
     <img style='border-radius: 2px; width: 17%' src="RGHyvkbIFA.gif"/>
@@ -27,8 +24,6 @@
         <li> ♔ Luca : <br>[🥇] Chef du Staff (de même que créateur du serveur)</li>
     </ul>
 <div style='margin: 10vh;'>
-
-[![equipe](2021-07-24-152752.png)](2021-07-24-152752.png)
 </div>
 </center>
 </body>
