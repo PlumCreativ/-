@@ -1,3 +1,4 @@
+<h1> Bienvenue sur le Serveur<br> マナー </h1>
 
 ![equipe](2021-07-24-152752.png)<br>
     <a style='padding: 0 2%;' href='https://discord.gg/wajHZeNM'>Discord/</a>    <a style='padding: 0 2%;' href='#list'>Equipe/</a><br>
