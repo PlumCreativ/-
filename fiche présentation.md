@@ -14,7 +14,7 @@
     <p style='margin: 0 10%;'><em> Le serveur possède beaucoup de rôles, en tout 3 grands groups, les rôles plantes que vous obtenné, à partire de {100 > +}, puis les rôles des signes, qui sont disponible à partire de {1000 > +} et enfin les arc-en-ciel pour les membres très amplique et actives. Plus d'informations dans le salon #rôles, d'édiés exprès pour vos questions concernant leurs évolution. </em> 😁 💪🏻 </p>
     <h3><strong> 🧾 Les règles 📜 </strong></h3>
     <p style='margin: 0 10%;'><em> Les règles ne sont pas si compliquées, il faut juste être poli et être respectueux avec les autres, aider les personnes en difficultés, respecter les thèmes de chaque salon, donner votre avis et vos idées constructivement et participer à rendre le serveur le meilleur possible ^^ ! </em> En rejoignent le serveur vous rejoigné une famille, que vous amélioré:
-    - Des règles particulières sur les grands mots: insulte = mute(3h), cependant les modérateurs doivent faire attention au contexte, pour rester le plus correcte possible, de même si un modérateur fais mal son boulot, vous pouvez le signalé au président, soit le créateur du serveur.</p><hr>
+    - Des règles particulières sur les grands mots: insulte = mute(3h), cependant les modérateurs doivent faire attention au contexte, pour rester le plus correcte possible, de même si un modérateur fais mal son boulot, vous pouvez le signalé au président, soit le créateur du serveur.</p>
     <h2 id='list'><string> 🤓 L'équipe & Créateurs 😎 </string></h2>
     <ul>
         <li> NITRO : <br>[🥇] Modérateur Salon Vocal</li>
