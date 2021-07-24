@@ -5,7 +5,7 @@
     
 ![aperçue](tumblr_o2djd5wQ4d1uc9x1zo1_1280.jpg)<br>
     <a style='padding: 0 2%;' href='https://discord.gg/wajHZeNM'>Discord/</a>    <a style='padding: 0 2%;' href='#list'>Equipe/</a><br>
-    <h2> Présentation <br> 📃 </h2><hr>
+    <h2> Présentation <br> 📃 </h2>
     <img style='width: 40vh; border-radius: 1rem; width: 30%' src="ezgif-6-3408ea686f9d.gif"/>
     <br><strong style = 'font-size: 150%;'> マナー </strong>
     <h3><strong> 🏛 Les salons 🏛 </strong></h3>
