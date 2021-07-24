@@ -1,5 +1,5 @@
 
-<body>
+<body style="text-align: center;">
 <center>
 <h1> Bienvenue sur le Serveur<br> マナー </h1>
 
