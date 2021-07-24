@@ -16,7 +16,7 @@
     <p style='margin: 0 10%;'><em> Les règles ne sont pas si compliquées, il faut juste être poli et être respectueux avec les autres, aider les personnes en difficultés, respecter les thèmes de chaque salon, donner votre avis et vos idées constructivement et participer à rendre le serveur le meilleur possible ^^ ! </em> En rejoignent le serveur vous rejoigné une famille, que vous amélioré:
     - Des règles particulières sur les grands mots: insulte = mute(3h), cependant les modérateurs doivent faire attention au contexte, pour rester le plus correcte possible, de même si un modérateur fais mal son boulot, vous pouvez le signalé au président, soit le créateur du serveur.</p><hr>
     <h2 id='list'><string> 🤓 L'équipe & Créateurs 😎 </string></h2>
-    <ul style='list-style: none;'>
+    <ul style='style-list: none;'>
         <li> NITRO : <br>[🥇] Modérateur Salon Vocal</li>
         <li> MyBB : <br>[⚖️] Modérateur Salon Vocal</li>
         <li> PlumCreative : <br>[🥇] Modérateur Salon Textuel</li>
