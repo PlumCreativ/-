@@ -1,30 +1,4 @@
 
-<head>
-    <title>Fiche présentation</title>
-</head>
-
-<body>
-<center>
-    <h1> Bienvenue sur le Serveur<br> マナー </h1>
-    <style>
-        body{
-            background-color: #303030
-        }
-        .gif{
-            display: flex;
-            flex-direction: flex;
-            justify-content: space-evenly;
-        }
-        .roles{
-            position: relative;
-            justify-content: center;
-            margin: auto 0;
-        }
-        html{
-            scroll-behavior: smooth;
-        }
-    </style>
-    
 ![equipe](2021-07-24-152752.png)<br>
     <a style='padding: 0 2%;' href='https://discord.gg/wajHZeNM'>Discord/</a>    <a style='padding: 0 2%;' href='#list'>Equipe/</a><br>
     <h2> Présentation <br> 📃 </h2><hr>
