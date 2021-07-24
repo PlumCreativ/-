@@ -1,3 +1,6 @@
+
+<body>
+<center>
 <h1> Bienvenue sur le Serveur<br> マナー </h1>
 
 ![aperçue](tumblr_o2djd5wQ4d1uc9x1zo1_1280.jpg)<br>
